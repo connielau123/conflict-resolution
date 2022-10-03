@@ -1,2 +1,3 @@
 # conflict-resolution
-I'm going to resolve a conflict
+
+## this edit was made directly 
